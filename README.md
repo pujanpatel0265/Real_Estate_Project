@@ -75,6 +75,7 @@ models/real_estate_model.pkl
 ```bash
 python -m streamlit run app.py
 ```
+https://real-estate-price-prediction-pujan.streamlit.app/
 
 Enter the property details and click **Predict Price** to get the estimated property price.
 
